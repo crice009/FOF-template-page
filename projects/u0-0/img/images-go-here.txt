@@ -1,0 +1,4 @@
+delete this file, if you want...
+
+Imagemagick is a great way to compress images quickly for use in a website: https://imagemagick.org/
+Some pointers on compressing images: https://dev.to/feldroy/til-strategies-for-compressing-jpg-files-with-imagemagick-5fn9
