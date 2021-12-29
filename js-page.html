@@ -32,6 +32,7 @@
     let gh_user = _url.split('/')[2].split('.')[0] //a little tricky, but pulls the github user from the url
     let gh_repo = _url.split('/')[3] //a little tricky, but pulls the github repo from the url    
     console.log(gh_user);
+    console.log(gh_repo);
     console.log(fetch("https://crice009.github.io/FOF-template-page/projects").then(console.log(res)));
 </script>
 
